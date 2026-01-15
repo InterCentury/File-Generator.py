@@ -54,6 +54,9 @@ File-Generator.py/
    Do you want separate folder (y/n): y
    Enter folder name: generated_files
    Files without extension(skip/folder):folder
+
+   Generating files....
+   (Done) -> path -> C:\files\generated_files
    ```
 
 4. Done ✅ — all files will be created automatically.
