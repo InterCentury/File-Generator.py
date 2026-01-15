@@ -70,18 +70,21 @@ def main():
     file_list = read_file_list("Files List.txt")
     if not file_list:
         return
-    
+      
+    # intialize output path
     output_path = input("🏠 Enter the output path: ").strip()
     if not os.path.exists(output_path):
         print("❌ Output path does not exist.")
         return
-    
+      
+    # ask user for separate folder 
     separate_folder = input("🦺 Do you want to create separate folder (y/n): ").lower().strip()
     if separate_folder == "y":
         folder_name = input("📂 Enter folder name: ").strip()
         output_path = os.path.join(output_path, folder_name)
         os.makedirs(output_path, exist_ok=True)
-    
+        
+    # ask user how to handle files without extension
     handle_no_ext = input("⚡ Files without extension (skip/folder): ").lower().strip()
     if handle_no_ext not in ['skip', 'folder']:
         handle_no_ext = 'skip'
@@ -89,7 +92,9 @@ def main():
     
     skip_invalid = input("🚩 Skip files with invalid name (y/n): ").lower().strip()
     clean_invalid = input("⚠️ Remove invalid character from file name (y/n): ").lower().strip()
-
+    
+    
+    # Execution successful msg
     print("\n🚀 Generating files...\n")
     create_files(output_path, file_list, handle_no_ext, skip_invalid, clean_invalid)
 
