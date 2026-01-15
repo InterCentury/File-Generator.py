@@ -85,7 +85,7 @@ C:\files\generated_files\
 
 * Make sure the output path exists
 * Empty lines in `Files List.txt` will be ignored
-* file name with out extension in `Files List.txt` will be ignored
+* file name with out extension in `Files List.txt` will be ignored or consider them as folder based on user preference 
 * Duplicate file names may overwrite existing files
 
 ---
