@@ -1,0 +1,1018 @@
+Date: Mon Apr 6 00:11:28 2026 +0600
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 362 bytes | 362.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/InterCentury/File-Generator.py.git
+   5484ab8..71448f8  main -> main
+Administrator in File-Generator.py on  main via 🐍 v3.12.8 took 2s 
+00:11:31 ❯ python filegenerator.py
+--------File Generator.py--------
+🏠 Enter the output path: H:\programming\git_and_github\File-Generator.py\test\test7
+🦺 Do you want to create separate folder (y/n): y
+📂 Enter folder name: markdown files
+⚡ Files without extension (skip/folder): folder
+🚩 Skip files with invalid name (y/n): n
+⚠️ Remove invalid character from file name (y/n): n
+
+🚀 Generating files...
+
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\01 - Hello World program.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\02 - Python program structure.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\03 - Comments single-line and multi-line.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\04 - print() function for output.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\05 - input() function for input.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\06 - Escape sequences.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\07 - Indentation and code blocks.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\08 - Python as an interpreted language.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\09 - variable declaration and initialization.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\10 - dynamic typing vs static typing.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\11 - type() and isinstance() functions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\12 - integer types (int).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\13 - floating-point types (float).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\14 - complex numbers (complex).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\15 - boolean type (bool).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\16 - None type.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\17 - type conversion (int() float() str() bool()).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\18 - constants and naming conventions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\19 - type hints annotations (Python 3.5+).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\20 - arithmetic operators.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\21 - assignment operators.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\22 - comparison operators.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\23 - logical operators (and or not).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\24 - identity operators (is is not).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\25 - membership operators (in not in).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\26 - bitwise operators (and or xor not left shift right shift).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\27 - operator precedence.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\28 - walrus operator (colon equals) (Python 3.8+).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\29 - if statement.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\30 - if-else statement.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\31 - elif ladder.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\32 - nested if statements.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\33 - match-case statement (Python 3.10+).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\34 - ternary operator (x if condition else y).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\35 - while loop.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\36 - for loop (iterating over sequences).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\37 - range() function.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\38 - nested loops.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\39 - break statement.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\40 - continue statement.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\41 - else clause with loops.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\42 - pass statement.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\43 - enumerate() function in loops.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\44 - zip() function in loops.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\45 - list declaration and initialization.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\46 - accessing elements (indexing).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\47 - negative indexing.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\48 - list slicing [start stop step].md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\49 - modifying elements.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\50 - adding elements (append insert extend).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\51 - removing elements (remove pop del clear).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\52 - list concatenation and repetition.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\53 - list methods (sort reverse index count copy).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\54 - list comprehension.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\55 - nested lists.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\56 - iterating through lists.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\57 - checking membership in lists.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\58 - tuple declaration and initialization.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\59 - accessing tuple elements.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\60 - tuple slicing.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\61 - tuple immutability.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\62 - tuple methods (count index).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\63 - tuple packing and unpacking.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\64 - named tuples (collections.namedtuple).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\65 - single element tuple.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\66 - tuple vs list.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\67 - dictionary declaration and initialization.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\68 - accessing values using keys.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\69 - adding and modifying key-value pairs.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\70 - removing items (pop popitem del clear).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\71 - dictionary methods (keys values items get update).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\72 - setdefault() method.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\73 - dictionary comprehension.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\74 - nested dictionaries.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\75 - iterating through dictionaries.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\76 - checking key existence.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\77 - defaultdict from collections module.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\78 - OrderedDict (Python 3.7+ dict maintains order).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\79 - set declaration and initialization.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\80 - adding elements (add update).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\81 - removing elements (remove discard pop clear).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\82 - set operations (union intersection difference symmetric difference).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\83 - set methods (issubset issuperset isdisjoint).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\84 - frozen sets (frozenset).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\85 - set comprehension.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\86 - set membership testing.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\87 - string declaration (single double triple quotes).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\88 - string indexing and slicing.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\89 - string immutability.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\90 - string concatenation and repetition.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\91 - string methods (upper lower strip split join replace).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\92 - string formatting (percent formatting).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\93 - str.format() method.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\94 - f-strings (formatted string literals).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\95 - string methods (find index count startswith endswith).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\96 - string validation methods (isalpha isdigit isalnum isspace).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\97 - escape sequences in strings.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\98 - raw strings (r...).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\99 - multiline strings.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\100 - string multiplication.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\101 - function definition (def keyword).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\102 - function calling.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\103 - parameters and arguments.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\104 - return statement.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\105 - void functions (returning None).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\106 - positional arguments.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\107 - keyword arguments.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\108 - default parameters.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\109 - variable-length arguments (starargs).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\110 - variable-length keyword arguments (starstarkwargs).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\111 - parameter ordering rules.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\112 - docstrings (function documentation).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\113 - pass statement in functions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\114 - function annotations.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\115 - pass by object reference.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\116 - mutable vs immutable arguments.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\117 - returning multiple values.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\118 - recursive functions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\119 - lambda functions (anonymous functions).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\120 - map() function.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\121 - filter() function.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\122 - reduce() function (functools module).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\123 - nested functions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\124 - closures.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\125 - decorators (basic).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\126 - decorators with arguments.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\127 - chaining decorators.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\128 - functools.wraps().md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\129 - generators (yield keyword).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\130 - generator expressions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\131 - scope rules (LEGB rule).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\132 - global keyword.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\133 - nonlocal keyword.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\134 - creating modules.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\135 - import statement.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\136 - from-import statement.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\137 - import aliasing (as keyword).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\138 - name variable and main.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\139 - dir() function.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\140 - reload() function.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\141 - module search path (sys.path).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\142 - byte-compiled files (dot pyc).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\143 - creating packages.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\144 - init.py file.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\145 - importing from packages.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\146 - relative imports.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\147 - package structure best practices.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\148 - namespace packages (Python 3.3+).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\149 - sys module (system-specific parameters).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\150 - os module (operating system interface).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\151 - math module (mathematical functions).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\152 - random module (random number generation).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\153 - datetime module (date and time).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\154 - time module (time access and conversion).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\155 - json module (JSON encoding decoding).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\156 - re module (regular expressions).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\157 - collections module (specialized container types).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\158 - itertools module (iterator building blocks).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\159 - functools module (higher-order functions).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\160 - copy module (shallow and deep copy).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\161 - argparse module (command-line argument parsing).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\162 - opening files (open() function).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\163 - file modes (r w a rb wb r+ w+ a+).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\164 - reading files (read readline readlines).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\165 - writing to files (write writelines).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\166 - closing files.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\167 - with statement (context managers).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\168 - file pointer operations (seek tell).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\169 - working with CSV files (csv module).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\170 - working with JSON files.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\171 - working with text files.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\172 - file and directory operations (os shutil modules).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\173 - pathlib module (object-oriented file paths).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\174 - try-except block.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\175 - multiple except blocks.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\176 - else clause with try-except.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\177 - finally clause.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\178 - built-in exception types.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\179 - raising exceptions (raise keyword).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\180 - custom exceptions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\181 - assert statement.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\182 - exception chaining.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\183 - with statements and exceptions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\184 - class definition (class keyword).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\185 - creating objects (instances).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\186 - instance variables.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\187 - class variables.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\188 - instance methods.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\189 - init() constructor.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\190 - str() and repr() methods.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\191 - self parameter.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\192 - public private (underscore single underscore).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\193 - name mangling (double underscore).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\194 - property decorator (at property).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\195 - setter and deleter decorators.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\196 - getter methods.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\197 - setter methods.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\198 - property() function.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\199 - private attributes (convention).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\200 - protected attributes (convention).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\201 - single inheritance.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\202 - multiple inheritance.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\203 - multilevel inheritance.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\204 - hierarchical inheritance.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\205 - hybrid inheritance.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\206 - method overriding.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\207 - super() function.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\208 - Method Resolution Order (MRO).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\209 - issubclass() and isinstance().md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\210 - abstract base classes (abc module).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\211 - at abstractmethod decorator.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\212 - mixin classes.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\213 - method overloading (using default parameters).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\214 - method overriding.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\215 - operator overloading (magic methods).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\216 - duck typing.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\217 - polymorphism with functions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\218 - polymorphism with abstract classes.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\219 - init (constructor).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\220 - del (destructor).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\221 - str (string representation).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\222 - repr (developer representation).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\223 - len (length).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\224 - getitem (indexing).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\225 - setitem (item assignment).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\226 - delitem (item deletion).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\227 - iter and next (iteration).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\228 - call (callable objects).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\229 - enter and exit (context managers).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\230 - eq lt gt (comparison operators).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\231 - add sub mul (arithmetic operators).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\232 - static methods (at staticmethod).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\233 - class methods (at classmethod).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\234 - property decorators.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\235 - slots (slots) for memory optimization.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\236 - dataclasses (dataclasses module) (Python 3.7+).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\237 - composition (has-a relationship).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\238 - aggregation.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\239 - nested classes.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\240 - descriptors.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\241 - metaclasses (basic concepts).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\242 - iter() and next() functions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\243 - custom iterators.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\244 - generator functions with yield.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\245 - generator expressions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\246 - itertools module (advanced iteration).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\247 - yield from statement.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\248 - sending values to generators (send method).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\249 - generator pipelines.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\250 - function decorators.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\251 - class decorators.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\252 - decorators with arguments.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\253 - chaining decorators.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\254 - at functools.wraps.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\255 - property decorator.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\256 - at staticmethod and at classmethod.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\257 - at lru_cache (caching decorator).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\258 - creating custom decorators.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\259 - with statement.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\260 - implementing context managers using classes.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\261 - contextlib module.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\262 - at contextmanager decorator.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\263 - nested context managers.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\264 - asynchronous context managers (Python 3.7+).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\265 - lambda expressions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\266 - map() filter() reduce().md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\267 - list comprehensions vs map filter.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\268 - sorted() with key functions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\269 - functools.partial (partial function application).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\270 - functional programming concepts in Python.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\271 - re module basics.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\272 - pattern matching (match search findall finditer).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\273 - regex patterns (dot caret dollar star plus question mark braces).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\274 - character classes (bracket a-z backslash d backslash w backslash s).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\275 - groups and capturing (parentheses (colon parentheses)).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\276 - substitution (sub subn).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\277 - compiling regex patterns (re.compile).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\278 - flags (re.IGNORECASE re.MULTILINE re.DOTALL).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\279 - lookahead and lookbehind assertions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\280 - datetime module (date time datetime timedelta).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\281 - formatting dates and times (strftime strptime).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\282 - timezone handling (pytz module zoneinfo in Python 3.9+).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\283 - calendar module.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\284 - working with timestamps.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\285 - json.dumps() and json.loads().md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\286 - json.dump() and json.load().md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\287 - custom JSON encoders decoders.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\288 - pickle module (Python object serialization).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\289 - shelve module (persistent storage).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\290 - basic list comprehensions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\291 - conditional list comprehensions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\292 - nested list comprehensions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\293 - dictionary comprehensions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\294 - set comprehensions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\295 - generator expressions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\296 - conditional expressions in comprehensions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\297 - zip() function.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\298 - enumerate() function.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\299 - map() with multiple iterables.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\300 - itertools.zip_longest().md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\301 - unpacking with star.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\302 - assignment vs shallow copy vs deep copy.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\303 - copy.copy() (shallow copy).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\304 - copy.deepcopy() (deep copy).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\305 - copying lists and dictionaries.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\306 - sorted() function.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\307 - list.sort() method.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\308 - custom sorting with key parameter.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\309 - sorting with lambda functions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\310 - stable sorting.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\311 - operator.itemgetter and operator.attrgetter.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\312 - integer arithmetic.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\313 - floating-point precision (decimal module).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\314 - fractions module (rational numbers).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\315 - complex number operations.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\316 - math module functions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\317 - random module functions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\318 - statistics module (mean median mode stdev).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\319 - decimal module for precise decimal arithmetic.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\320 - working with very large integers.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\321 - os.path module.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\322 - pathlib module.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\323 - joining paths.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\324 - checking file directory existence.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\325 - creating directories.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\326 - deleting files and directories.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\327 - renaming and moving files.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\328 - listing directory contents.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\329 - walking directory trees (os.walk).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\330 - glob module (file pattern matching).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\331 - shutil module (high-level file operations).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\332 - tempfile module (temporary files and directories).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\333 - logging module basics.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\334 - log levels (DEBUG INFO WARNING ERROR CRITICAL).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\335 - basicConfig() configuration.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\336 - loggers handlers and formatters.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\337 - logging to files.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\338 - rotating log files.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\339 - custom logging configurations.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\340 - print() debugging.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\341 - assert statements.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\342 - pdb module (Python debugger).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\343 - breakpoint() function (Python 3.7+).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\344 - logging for debugging.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\345 - traceback module.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\346 - sys.settrace() for custom debugging.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\347 - PEP 8 style guide.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\348 - naming conventions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\349 - docstrings and documentation (PEP 257).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\350 - type hints (PEP 484).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\351 - comments best practices.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\352 - line length and indentation.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\353 - venv module.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\354 - creating virtual environments.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\355 - activating deactivating virtual environments.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\356 - pip and package management.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\357 - requirements.txt file.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\358 - conda environments (optional).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\359 - doctest module.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\360 - unittest module basics.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\361 - test discovery and test suites.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\362 - setUp and tearDown methods.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\363 - assertions in unittest.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\364 - mocking with unittest.mock.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\365 - pytest basics (external library).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\366 - async await keywords (Python 3.5+).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\367 - coroutines.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\368 - asyncio module basics.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\369 - event loops.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\370 - running async tasks.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\371 - gathering multiple coroutines.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\372 - async context managers.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\373 - async generators.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\374 - aiohttp for async HTTP requests.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\375 - basic type hints (int str float bool).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\376 - type hints for collections (List Dict Set Tuple).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\377 - Optional Union Any types.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\378 - typing module.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\379 - custom types and TypeAlias.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\380 - type hints for functions and methods.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\381 - mypy type checker.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\382 - CSV reading writing with csv module.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\383 - JSON handling.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\384 - XML parsing (xml.etree.ElementTree).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\385 - YAML handling (pyyaml external library).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\386 - ConfigParser for configuration files.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\387 - sys.argv.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\388 - argparse module (basic to advanced).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\389 - click library (external).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\390 - environment variables (os.environ).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\391 - len() type() id() isinstance().md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\392 - range() enumerate() zip().md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\393 - map() filter() reduce().md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\394 - all() any() sum() min() max().md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\395 - sorted() reversed().md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\396 - abs() round() pow() divmod().md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\397 - chr() ord() bin() oct() hex().md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\398 - eval() exec() compile().md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\399 - open() input() print().md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\400 - format() vars() locals() globals().md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\401 - string module (constants like ascii_letters digits).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\402 - textwrap module (wrapping and filling text).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\403 - difflib module (comparing sequences).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\404 - unicodedata module (Unicode character database).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\405 - timeit module (measuring execution time).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\406 - cProfile and profile modules.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\407 - memory_profiler (external).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\408 - optimizing loops and comprehensions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\409 - lru_cache for memoization.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\410 - efficient data structure selection.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\411 - subprocess module basics.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\412 - subprocess.run() and subprocess.Popen().md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\413 - capturing command output.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\414 - os.system() (legacy).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\415 - shutil.which() for finding executables.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\416 - specific exception types vs bare except.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\417 - exception hierarchies.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\418 - logging exceptions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\419 - exception chaining (raise ... from ...).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\420 - custom exception classes best practices.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\421 - contextlib.suppress() for ignoring exceptions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\422 - finally for cleanup operations.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\423 - LEGB rule (Local Enclosing Global Built-in).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\424 - global statement.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\425 - nonlocal statement.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\426 - builtins module.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\427 - reference counting.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\428 - garbage collection (gc module).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\429 - weakref module (weak references).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\430 - memory leaks and prevention.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\431 - slots for memory optimization.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\432 - binary (0b prefix).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\433 - octal (0o prefix).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\434 - hexadecimal (0x prefix).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\435 - base conversion functions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\436 - platform module.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\437 - sys module (interpreter information).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\438 - os.environ (environment variables).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\439 - sys.argv (command-line arguments).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\440 - sys.exit() for program termination.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\441 - pylint (static code analysis).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\442 - black (code formatter).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\443 - flake8 (style guide enforcement).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\444 - isort (import sorting).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\445 - mypy (static type checking).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\446 - import() function.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\447 - importlib module.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\448 - exec() and eval() (cautions and use cases).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\449 - dynamically creating classes (type() function).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\450 - monkey patching.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\451 - dir() vars() locals() globals().md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\452 - hasattr() getattr() setattr() delattr().md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\453 - inspect module (examining live objects).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\454 - callable() function.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\455 - help() function.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\456 - annotations attribute.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\457 - variable annotations (PEP 526).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\458 - forward references in type hints.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\459 - from future import annotations.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\460 - EAFP (Easier to Ask for Forgiveness than Permission).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\461 - LBYL (Look Before You Leap).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\462 - using context managers for resource management.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\463 - tuple unpacking.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\464 - swapping variables (a b = b a).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\465 - chaining comparison operators (a less than b less than c).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\466 - using enumerate() instead of range(len()).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\467 - using zip() for parallel iteration.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\468 - using any() and all() for conditions.md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\469 - object creation and destruction (new init del).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\470 - string bytes representation (str repr bytes).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\471 - container methods (len getitem setitem delitem).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\472 - attribute access (getattr setattr delattr getattribute).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\473 - callable objects (call).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\474 - context managers (enter exit).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\475 - iterators (iter next).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\476 - arithmetic operators (add sub mul etc).md
+✅ Created: H:\programming\git_and_github\File-Generator.py\test\test7\markdown files\477 - comparison operators (eq lt gt etc).md
+
+🎉 Done! -> Path -> H:\programming\git_and_github\File-Generator.py\test\test7\markdown files
+Administrator in File-Generator.py on  main [❌ ] via 🐍 v3.12.8 took 54s 
+00:13:11 ❯ git add .
+Administrator in File-Generator.py on  main [✔️ ] via 🐍 v3.12.8 
+00:21:41 ❯ git commit --date '2026-01-17' -m "test: test 7 succeeded"
+[main b94f49d] test: test 7 succeeded
+ Date: Sat Jan 17 00:21:41 2026 +0600
+ 477 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 test/test7/markdown files/01 - Hello World program.md
+ create mode 100644 test/test7/markdown files/02 - Python program structure.md
+ create mode 100644 test/test7/markdown files/03 - Comments single-line and multi-line.md
+ create mode 100644 test/test7/markdown files/04 - print() function for output.md
+ create mode 100644 test/test7/markdown files/05 - input() function for input.md
+ create mode 100644 test/test7/markdown files/06 - Escape sequences.md
+ create mode 100644 test/test7/markdown files/07 - Indentation and code blocks.md
+ create mode 100644 test/test7/markdown files/08 - Python as an interpreted language.md
+ create mode 100644 test/test7/markdown files/09 - variable declaration and initialization.md
+ create mode 100644 test/test7/markdown files/10 - dynamic typing vs static typing.md
+ create mode 100644 test/test7/markdown files/100 - string multiplication.md
+ create mode 100644 test/test7/markdown files/101 - function definition (def keyword).md
+ create mode 100644 test/test7/markdown files/102 - function calling.md
+ create mode 100644 test/test7/markdown files/103 - parameters and arguments.md
+ create mode 100644 test/test7/markdown files/104 - return statement.md
+ create mode 100644 test/test7/markdown files/105 - void functions (returning None).md
+ create mode 100644 test/test7/markdown files/106 - positional arguments.md
+ create mode 100644 test/test7/markdown files/107 - keyword arguments.md
+ create mode 100644 test/test7/markdown files/108 - default parameters.md
+ create mode 100644 test/test7/markdown files/109 - variable-length arguments (starargs).md
+ create mode 100644 test/test7/markdown files/11 - type() and isinstance() functions.md
+ create mode 100644 test/test7/markdown files/110 - variable-length keyword arguments (starstarkwargs).md
+ create mode 100644 test/test7/markdown files/111 - parameter ordering rules.md
+ create mode 100644 test/test7/markdown files/112 - docstrings (function documentation).md
+ create mode 100644 test/test7/markdown files/113 - pass statement in functions.md
+ create mode 100644 test/test7/markdown files/114 - function annotations.md
+ create mode 100644 test/test7/markdown files/115 - pass by object reference.md
+ create mode 100644 test/test7/markdown files/116 - mutable vs immutable arguments.md
+ create mode 100644 test/test7/markdown files/117 - returning multiple values.md
+ create mode 100644 test/test7/markdown files/118 - recursive functions.md
+ create mode 100644 test/test7/markdown files/119 - lambda functions (anonymous functions).md
+ create mode 100644 test/test7/markdown files/12 - integer types (int).md
+ create mode 100644 test/test7/markdown files/120 - map() function.md
+ create mode 100644 test/test7/markdown files/121 - filter() function.md
+ create mode 100644 test/test7/markdown files/122 - reduce() function (functools module).md
+ create mode 100644 test/test7/markdown files/123 - nested functions.md
+ create mode 100644 test/test7/markdown files/124 - closures.md
+ create mode 100644 test/test7/markdown files/125 - decorators (basic).md
+ create mode 100644 test/test7/markdown files/126 - decorators with arguments.md
+ create mode 100644 test/test7/markdown files/127 - chaining decorators.md
+ create mode 100644 test/test7/markdown files/128 - functools.wraps().md
+ create mode 100644 test/test7/markdown files/129 - generators (yield keyword).md
+ create mode 100644 test/test7/markdown files/13 - floating-point types (float).md
+ create mode 100644 test/test7/markdown files/130 - generator expressions.md
+ create mode 100644 test/test7/markdown files/131 - scope rules (LEGB rule).md
+ create mode 100644 test/test7/markdown files/132 - global keyword.md
+ create mode 100644 test/test7/markdown files/133 - nonlocal keyword.md
+ create mode 100644 test/test7/markdown files/134 - creating modules.md
+ create mode 100644 test/test7/markdown files/135 - import statement.md
+ create mode 100644 test/test7/markdown files/136 - from-import statement.md
+ create mode 100644 test/test7/markdown files/137 - import aliasing (as keyword).md
+ create mode 100644 test/test7/markdown files/138 - name variable and main.md
+ create mode 100644 test/test7/markdown files/139 - dir() function.md
+ create mode 100644 test/test7/markdown files/14 - complex numbers (complex).md
+ create mode 100644 test/test7/markdown files/140 - reload() function.md
+ create mode 100644 test/test7/markdown files/141 - module search path (sys.path).md
+ create mode 100644 test/test7/markdown files/142 - byte-compiled files (dot pyc).md
+ create mode 100644 test/test7/markdown files/143 - creating packages.md
+ create mode 100644 test/test7/markdown files/144 - init.py file.md
+ create mode 100644 test/test7/markdown files/145 - importing from packages.md
+ create mode 100644 test/test7/markdown files/146 - relative imports.md
+ create mode 100644 test/test7/markdown files/147 - package structure best practices.md
+ create mode 100644 test/test7/markdown files/148 - namespace packages (Python 3.3+).md
+ create mode 100644 test/test7/markdown files/149 - sys module (system-specific parameters).md
+ create mode 100644 test/test7/markdown files/15 - boolean type (bool).md
+ create mode 100644 test/test7/markdown files/150 - os module (operating system interface).md
+ create mode 100644 test/test7/markdown files/151 - math module (mathematical functions).md
+ create mode 100644 test/test7/markdown files/152 - random module (random number generation).md
+ create mode 100644 test/test7/markdown files/153 - datetime module (date and time).md
+ create mode 100644 test/test7/markdown files/154 - time module (time access and conversion).md
+ create mode 100644 test/test7/markdown files/155 - json module (JSON encoding decoding).md
+ create mode 100644 test/test7/markdown files/156 - re module (regular expressions).md
+ create mode 100644 test/test7/markdown files/157 - collections module (specialized container types).md
+ create mode 100644 test/test7/markdown files/158 - itertools module (iterator building blocks).md
+ create mode 100644 test/test7/markdown files/159 - functools module (higher-order functions).md
+ create mode 100644 test/test7/markdown files/16 - None type.md
+ create mode 100644 test/test7/markdown files/160 - copy module (shallow and deep copy).md
+ create mode 100644 test/test7/markdown files/161 - argparse module (command-line argument parsing).md
+ create mode 100644 test/test7/markdown files/162 - opening files (open() function).md
+ create mode 100644 test/test7/markdown files/163 - file modes (r w a rb wb r+ w+ a+).md
+ create mode 100644 test/test7/markdown files/164 - reading files (read readline readlines).md
+ create mode 100644 test/test7/markdown files/165 - writing to files (write writelines).md
+ create mode 100644 test/test7/markdown files/166 - closing files.md
+ create mode 100644 test/test7/markdown files/167 - with statement (context managers).md
+ create mode 100644 test/test7/markdown files/168 - file pointer operations (seek tell).md
+ create mode 100644 test/test7/markdown files/169 - working with CSV files (csv module).md
+ create mode 100644 test/test7/markdown files/17 - type conversion (int() float() str() bool()).md
+ create mode 100644 test/test7/markdown files/170 - working with JSON files.md
+ create mode 100644 test/test7/markdown files/171 - working with text files.md
+ create mode 100644 test/test7/markdown files/172 - file and directory operations (os shutil modules).md
+ create mode 100644 test/test7/markdown files/173 - pathlib module (object-oriented file paths).md
+ create mode 100644 test/test7/markdown files/174 - try-except block.md
+ create mode 100644 test/test7/markdown files/175 - multiple except blocks.md
+ create mode 100644 test/test7/markdown files/176 - else clause with try-except.md
+ create mode 100644 test/test7/markdown files/177 - finally clause.md
+ create mode 100644 test/test7/markdown files/178 - built-in exception types.md
+ create mode 100644 test/test7/markdown files/179 - raising exceptions (raise keyword).md
+ create mode 100644 test/test7/markdown files/18 - constants and naming conventions.md
+ create mode 100644 test/test7/markdown files/180 - custom exceptions.md
+ create mode 100644 test/test7/markdown files/181 - assert statement.md
+ create mode 100644 test/test7/markdown files/182 - exception chaining.md
+ create mode 100644 test/test7/markdown files/183 - with statements and exceptions.md
+ create mode 100644 test/test7/markdown files/184 - class definition (class keyword).md
+ create mode 100644 test/test7/markdown files/185 - creating objects (instances).md
+ create mode 100644 test/test7/markdown files/186 - instance variables.md
+ create mode 100644 test/test7/markdown files/187 - class variables.md
+ create mode 100644 test/test7/markdown files/188 - instance methods.md
+ create mode 100644 test/test7/markdown files/189 - init() constructor.md
+ create mode 100644 test/test7/markdown files/19 - type hints annotations (Python 3.5+).md
+ create mode 100644 test/test7/markdown files/190 - str() and repr() methods.md
+ create mode 100644 test/test7/markdown files/191 - self parameter.md
+ create mode 100644 test/test7/markdown files/192 - public private (underscore single underscore).md
+ create mode 100644 test/test7/markdown files/193 - name mangling (double underscore).md
+ create mode 100644 test/test7/markdown files/194 - property decorator (at property).md
+ create mode 100644 test/test7/markdown files/195 - setter and deleter decorators.md
+ create mode 100644 test/test7/markdown files/196 - getter methods.md
+ create mode 100644 test/test7/markdown files/197 - setter methods.md
+ create mode 100644 test/test7/markdown files/198 - property() function.md
+ create mode 100644 test/test7/markdown files/199 - private attributes (convention).md
+ create mode 100644 test/test7/markdown files/20 - arithmetic operators.md
+ create mode 100644 test/test7/markdown files/200 - protected attributes (convention).md
+ create mode 100644 test/test7/markdown files/201 - single inheritance.md
+ create mode 100644 test/test7/markdown files/202 - multiple inheritance.md
+ create mode 100644 test/test7/markdown files/203 - multilevel inheritance.md
+ create mode 100644 test/test7/markdown files/204 - hierarchical inheritance.md
+ create mode 100644 test/test7/markdown files/205 - hybrid inheritance.md
+ create mode 100644 test/test7/markdown files/206 - method overriding.md
+ create mode 100644 test/test7/markdown files/207 - super() function.md
+ create mode 100644 test/test7/markdown files/208 - Method Resolution Order (MRO).md
+ create mode 100644 test/test7/markdown files/209 - issubclass() and isinstance().md
+ create mode 100644 test/test7/markdown files/21 - assignment operators.md
+ create mode 100644 test/test7/markdown files/210 - abstract base classes (abc module).md
+ create mode 100644 test/test7/markdown files/211 - at abstractmethod decorator.md
+ create mode 100644 test/test7/markdown files/212 - mixin classes.md
+ create mode 100644 test/test7/markdown files/213 - method overloading (using default parameters).md
+ create mode 100644 test/test7/markdown files/214 - method overriding.md
+ create mode 100644 test/test7/markdown files/215 - operator overloading (magic methods).md
+ create mode 100644 test/test7/markdown files/216 - duck typing.md
+ create mode 100644 test/test7/markdown files/217 - polymorphism with functions.md
+ create mode 100644 test/test7/markdown files/218 - polymorphism with abstract classes.md
+ create mode 100644 test/test7/markdown files/219 - init (constructor).md
+ create mode 100644 test/test7/markdown files/22 - comparison operators.md
+ create mode 100644 test/test7/markdown files/220 - del (destructor).md
+ create mode 100644 test/test7/markdown files/221 - str (string representation).md
+ create mode 100644 test/test7/markdown files/222 - repr (developer representation).md
+ create mode 100644 test/test7/markdown files/223 - len (length).md
+ create mode 100644 test/test7/markdown files/224 - getitem (indexing).md
+ create mode 100644 test/test7/markdown files/225 - setitem (item assignment).md
+ create mode 100644 test/test7/markdown files/226 - delitem (item deletion).md
+ create mode 100644 test/test7/markdown files/227 - iter and next (iteration).md
+ create mode 100644 test/test7/markdown files/228 - call (callable objects).md
+ create mode 100644 test/test7/markdown files/229 - enter and exit (context managers).md
+ create mode 100644 test/test7/markdown files/23 - logical operators (and or not).md
+ create mode 100644 test/test7/markdown files/230 - eq lt gt (comparison operators).md
+ create mode 100644 test/test7/markdown files/231 - add sub mul (arithmetic operators).md
+ create mode 100644 test/test7/markdown files/232 - static methods (at staticmethod).md
+ create mode 100644 test/test7/markdown files/233 - class methods (at classmethod).md
+ create mode 100644 test/test7/markdown files/234 - property decorators.md
+ create mode 100644 test/test7/markdown files/235 - slots (slots) for memory optimization.md
+ create mode 100644 test/test7/markdown files/236 - dataclasses (dataclasses module) (Python 3.7+).md
+ create mode 100644 test/test7/markdown files/237 - composition (has-a relationship).md
+ create mode 100644 test/test7/markdown files/238 - aggregation.md
+ create mode 100644 test/test7/markdown files/239 - nested classes.md
+ create mode 100644 test/test7/markdown files/24 - identity operators (is is not).md
+ create mode 100644 test/test7/markdown files/240 - descriptors.md
+ create mode 100644 test/test7/markdown files/241 - metaclasses (basic concepts).md
+ create mode 100644 test/test7/markdown files/242 - iter() and next() functions.md
+ create mode 100644 test/test7/markdown files/243 - custom iterators.md
+ create mode 100644 test/test7/markdown files/244 - generator functions with yield.md
+ create mode 100644 test/test7/markdown files/245 - generator expressions.md
+ create mode 100644 test/test7/markdown files/246 - itertools module (advanced iteration).md
+ create mode 100644 test/test7/markdown files/247 - yield from statement.md
+ create mode 100644 test/test7/markdown files/248 - sending values to generators (send method).md
+ create mode 100644 test/test7/markdown files/249 - generator pipelines.md
+ create mode 100644 test/test7/markdown files/25 - membership operators (in not in).md
+ create mode 100644 test/test7/markdown files/250 - function decorators.md
+ create mode 100644 test/test7/markdown files/251 - class decorators.md
+ create mode 100644 test/test7/markdown files/252 - decorators with arguments.md
+ create mode 100644 test/test7/markdown files/253 - chaining decorators.md
+ create mode 100644 test/test7/markdown files/254 - at functools.wraps.md
+ create mode 100644 test/test7/markdown files/255 - property decorator.md
+ create mode 100644 test/test7/markdown files/256 - at staticmethod and at classmethod.md
+ create mode 100644 test/test7/markdown files/257 - at lru_cache (caching decorator).md
+ create mode 100644 test/test7/markdown files/258 - creating custom decorators.md
+ create mode 100644 test/test7/markdown files/259 - with statement.md
+ create mode 100644 test/test7/markdown files/26 - bitwise operators (and or xor not left shift right shift).md
+ create mode 100644 test/test7/markdown files/260 - implementing context managers using classes.md
+ create mode 100644 test/test7/markdown files/261 - contextlib module.md
+ create mode 100644 test/test7/markdown files/262 - at contextmanager decorator.md
+ create mode 100644 test/test7/markdown files/263 - nested context managers.md
+ create mode 100644 test/test7/markdown files/264 - asynchronous context managers (Python 3.7+).md
+ create mode 100644 test/test7/markdown files/265 - lambda expressions.md
+ create mode 100644 test/test7/markdown files/266 - map() filter() reduce().md
+ create mode 100644 test/test7/markdown files/267 - list comprehensions vs map filter.md
+ create mode 100644 test/test7/markdown files/268 - sorted() with key functions.md
+ create mode 100644 test/test7/markdown files/269 - functools.partial (partial function application).md
+ create mode 100644 test/test7/markdown files/27 - operator precedence.md
+ create mode 100644 test/test7/markdown files/270 - functional programming concepts in Python.md
+ create mode 100644 test/test7/markdown files/271 - re module basics.md
+ create mode 100644 test/test7/markdown files/272 - pattern matching (match search findall finditer).md
+ create mode 100644 test/test7/markdown files/273 - regex patterns (dot caret dollar star plus question mark braces).md
+ create mode 100644 test/test7/markdown files/274 - character classes (bracket a-z backslash d backslash w backslash s).md
+ create mode 100644 test/test7/markdown files/275 - groups and capturing (parentheses (colon parentheses)).md
+ create mode 100644 test/test7/markdown files/276 - substitution (sub subn).md
+ create mode 100644 test/test7/markdown files/277 - compiling regex patterns (re.compile).md
+ create mode 100644 test/test7/markdown files/278 - flags (re.IGNORECASE re.MULTILINE re.DOTALL).md
+ create mode 100644 test/test7/markdown files/279 - lookahead and lookbehind assertions.md
+ create mode 100644 test/test7/markdown files/28 - walrus operator (colon equals) (Python 3.8+).md
+ create mode 100644 test/test7/markdown files/280 - datetime module (date time datetime timedelta).md
+ create mode 100644 test/test7/markdown files/281 - formatting dates and times (strftime strptime).md
+ create mode 100644 test/test7/markdown files/282 - timezone handling (pytz module zoneinfo in Python 3.9+).md
+ create mode 100644 test/test7/markdown files/283 - calendar module.md
+ create mode 100644 test/test7/markdown files/284 - working with timestamps.md
+ create mode 100644 test/test7/markdown files/285 - json.dumps() and json.loads().md
+ create mode 100644 test/test7/markdown files/286 - json.dump() and json.load().md
+ create mode 100644 test/test7/markdown files/287 - custom JSON encoders decoders.md
+ create mode 100644 test/test7/markdown files/288 - pickle module (Python object serialization).md
+ create mode 100644 test/test7/markdown files/289 - shelve module (persistent storage).md
+ create mode 100644 test/test7/markdown files/29 - if statement.md
+ create mode 100644 test/test7/markdown files/290 - basic list comprehensions.md
+ create mode 100644 test/test7/markdown files/291 - conditional list comprehensions.md
+ create mode 100644 test/test7/markdown files/292 - nested list comprehensions.md
+ create mode 100644 test/test7/markdown files/293 - dictionary comprehensions.md
+ create mode 100644 test/test7/markdown files/294 - set comprehensions.md
+ create mode 100644 test/test7/markdown files/295 - generator expressions.md
+ create mode 100644 test/test7/markdown files/296 - conditional expressions in comprehensions.md
+ create mode 100644 test/test7/markdown files/297 - zip() function.md
+ create mode 100644 test/test7/markdown files/298 - enumerate() function.md
+ create mode 100644 test/test7/markdown files/299 - map() with multiple iterables.md
+ create mode 100644 test/test7/markdown files/30 - if-else statement.md
+ create mode 100644 test/test7/markdown files/300 - itertools.zip_longest().md
+ create mode 100644 test/test7/markdown files/301 - unpacking with star.md
+ create mode 100644 test/test7/markdown files/302 - assignment vs shallow copy vs deep copy.md
+ create mode 100644 test/test7/markdown files/303 - copy.copy() (shallow copy).md
+ create mode 100644 test/test7/markdown files/304 - copy.deepcopy() (deep copy).md
+ create mode 100644 test/test7/markdown files/305 - copying lists and dictionaries.md
+ create mode 100644 test/test7/markdown files/306 - sorted() function.md
+ create mode 100644 test/test7/markdown files/307 - list.sort() method.md
+ create mode 100644 test/test7/markdown files/308 - custom sorting with key parameter.md
+ create mode 100644 test/test7/markdown files/309 - sorting with lambda functions.md
+ create mode 100644 test/test7/markdown files/31 - elif ladder.md
+ create mode 100644 test/test7/markdown files/310 - stable sorting.md
+ create mode 100644 test/test7/markdown files/311 - operator.itemgetter and operator.attrgetter.md
+ create mode 100644 test/test7/markdown files/312 - integer arithmetic.md
+ create mode 100644 test/test7/markdown files/313 - floating-point precision (decimal module).md
+ create mode 100644 test/test7/markdown files/314 - fractions module (rational numbers).md
+ create mode 100644 test/test7/markdown files/315 - complex number operations.md
+ create mode 100644 test/test7/markdown files/316 - math module functions.md
+ create mode 100644 test/test7/markdown files/317 - random module functions.md
+ create mode 100644 test/test7/markdown files/318 - statistics module (mean median mode stdev).md
+ create mode 100644 test/test7/markdown files/319 - decimal module for precise decimal arithmetic.md
+ create mode 100644 test/test7/markdown files/32 - nested if statements.md
+ create mode 100644 test/test7/markdown files/320 - working with very large integers.md
+ create mode 100644 test/test7/markdown files/321 - os.path module.md
+ create mode 100644 test/test7/markdown files/322 - pathlib module.md
+ create mode 100644 test/test7/markdown files/323 - joining paths.md
+ create mode 100644 test/test7/markdown files/324 - checking file directory existence.md
+ create mode 100644 test/test7/markdown files/325 - creating directories.md
+ create mode 100644 test/test7/markdown files/326 - deleting files and directories.md
+ create mode 100644 test/test7/markdown files/327 - renaming and moving files.md
+ create mode 100644 test/test7/markdown files/328 - listing directory contents.md
+ create mode 100644 test/test7/markdown files/329 - walking directory trees (os.walk).md
+ create mode 100644 test/test7/markdown files/33 - match-case statement (Python 3.10+).md
+ create mode 100644 test/test7/markdown files/330 - glob module (file pattern matching).md
+ create mode 100644 test/test7/markdown files/331 - shutil module (high-level file operations).md
+ create mode 100644 test/test7/markdown files/332 - tempfile module (temporary files and directories).md
+ create mode 100644 test/test7/markdown files/333 - logging module basics.md
+ create mode 100644 test/test7/markdown files/334 - log levels (DEBUG INFO WARNING ERROR CRITICAL).md
+ create mode 100644 test/test7/markdown files/335 - basicConfig() configuration.md
+ create mode 100644 test/test7/markdown files/336 - loggers handlers and formatters.md
+ create mode 100644 test/test7/markdown files/337 - logging to files.md
+ create mode 100644 test/test7/markdown files/338 - rotating log files.md
+ create mode 100644 test/test7/markdown files/339 - custom logging configurations.md
+ create mode 100644 test/test7/markdown files/34 - ternary operator (x if condition else y).md
+ create mode 100644 test/test7/markdown files/340 - print() debugging.md
+ create mode 100644 test/test7/markdown files/341 - assert statements.md
+ create mode 100644 test/test7/markdown files/342 - pdb module (Python debugger).md
+ create mode 100644 test/test7/markdown files/343 - breakpoint() function (Python 3.7+).md
+ create mode 100644 test/test7/markdown files/344 - logging for debugging.md
+ create mode 100644 test/test7/markdown files/345 - traceback module.md
+ create mode 100644 test/test7/markdown files/346 - sys.settrace() for custom debugging.md
+ create mode 100644 test/test7/markdown files/347 - PEP 8 style guide.md
+ create mode 100644 test/test7/markdown files/348 - naming conventions.md
+ create mode 100644 test/test7/markdown files/349 - docstrings and documentation (PEP 257).md
+ create mode 100644 test/test7/markdown files/35 - while loop.md
+ create mode 100644 test/test7/markdown files/350 - type hints (PEP 484).md
+ create mode 100644 test/test7/markdown files/351 - comments best practices.md
+ create mode 100644 test/test7/markdown files/352 - line length and indentation.md
+ create mode 100644 test/test7/markdown files/353 - venv module.md
+ create mode 100644 test/test7/markdown files/354 - creating virtual environments.md
+ create mode 100644 test/test7/markdown files/355 - activating deactivating virtual environments.md
+ create mode 100644 test/test7/markdown files/356 - pip and package management.md
+ create mode 100644 test/test7/markdown files/357 - requirements.txt file.md
+ create mode 100644 test/test7/markdown files/358 - conda environments (optional).md
+ create mode 100644 test/test7/markdown files/359 - doctest module.md
+ create mode 100644 test/test7/markdown files/36 - for loop (iterating over sequences).md
+ create mode 100644 test/test7/markdown files/360 - unittest module basics.md
+ create mode 100644 test/test7/markdown files/361 - test discovery and test suites.md
+ create mode 100644 test/test7/markdown files/362 - setUp and tearDown methods.md
+ create mode 100644 test/test7/markdown files/363 - assertions in unittest.md
+ create mode 100644 test/test7/markdown files/364 - mocking with unittest.mock.md
+ create mode 100644 test/test7/markdown files/365 - pytest basics (external library).md
+ create mode 100644 test/test7/markdown files/366 - async await keywords (Python 3.5+).md
+ create mode 100644 test/test7/markdown files/367 - coroutines.md
+ create mode 100644 test/test7/markdown files/368 - asyncio module basics.md
+ create mode 100644 test/test7/markdown files/369 - event loops.md
+ create mode 100644 test/test7/markdown files/37 - range() function.md
+ create mode 100644 test/test7/markdown files/370 - running async tasks.md
+ create mode 100644 test/test7/markdown files/371 - gathering multiple coroutines.md
+ create mode 100644 test/test7/markdown files/372 - async context managers.md
+ create mode 100644 test/test7/markdown files/373 - async generators.md
+ create mode 100644 test/test7/markdown files/374 - aiohttp for async HTTP requests.md
+ create mode 100644 test/test7/markdown files/375 - basic type hints (int str float bool).md
+ create mode 100644 test/test7/markdown files/376 - type hints for collections (List Dict Set Tuple).md
+ create mode 100644 test/test7/markdown files/377 - Optional Union Any types.md
+ create mode 100644 test/test7/markdown files/378 - typing module.md
+ create mode 100644 test/test7/markdown files/379 - custom types and TypeAlias.md
+ create mode 100644 test/test7/markdown files/38 - nested loops.md
+ create mode 100644 test/test7/markdown files/380 - type hints for functions and methods.md
+ create mode 100644 test/test7/markdown files/381 - mypy type checker.md
+ create mode 100644 test/test7/markdown files/382 - CSV reading writing with csv module.md
+ create mode 100644 test/test7/markdown files/383 - JSON handling.md
+ create mode 100644 test/test7/markdown files/384 - XML parsing (xml.etree.ElementTree).md
+ create mode 100644 test/test7/markdown files/385 - YAML handling (pyyaml external library).md
+ create mode 100644 test/test7/markdown files/386 - ConfigParser for configuration files.md
+ create mode 100644 test/test7/markdown files/387 - sys.argv.md
+ create mode 100644 test/test7/markdown files/388 - argparse module (basic to advanced).md
+ create mode 100644 test/test7/markdown files/389 - click library (external).md
+ create mode 100644 test/test7/markdown files/39 - break statement.md
+ create mode 100644 test/test7/markdown files/390 - environment variables (os.environ).md
+ create mode 100644 test/test7/markdown files/391 - len() type() id() isinstance().md
+ create mode 100644 test/test7/markdown files/392 - range() enumerate() zip().md
+ create mode 100644 test/test7/markdown files/393 - map() filter() reduce().md
+ create mode 100644 test/test7/markdown files/394 - all() any() sum() min() max().md
+ create mode 100644 test/test7/markdown files/395 - sorted() reversed().md
+ create mode 100644 test/test7/markdown files/396 - abs() round() pow() divmod().md
+ create mode 100644 test/test7/markdown files/397 - chr() ord() bin() oct() hex().md
+ create mode 100644 test/test7/markdown files/398 - eval() exec() compile().md
+ create mode 100644 test/test7/markdown files/399 - open() input() print().md
+ create mode 100644 test/test7/markdown files/40 - continue statement.md
+ create mode 100644 test/test7/markdown files/400 - format() vars() locals() globals().md
+ create mode 100644 test/test7/markdown files/401 - string module (constants like ascii_letters digits).md
+ create mode 100644 test/test7/markdown files/402 - textwrap module (wrapping and filling text).md
+ create mode 100644 test/test7/markdown files/403 - difflib module (comparing sequences).md
+ create mode 100644 test/test7/markdown files/404 - unicodedata module (Unicode character database).md
+ create mode 100644 test/test7/markdown files/405 - timeit module (measuring execution time).md
+ create mode 100644 test/test7/markdown files/406 - cProfile and profile modules.md
+ create mode 100644 test/test7/markdown files/407 - memory_profiler (external).md
+ create mode 100644 test/test7/markdown files/408 - optimizing loops and comprehensions.md
+ create mode 100644 test/test7/markdown files/409 - lru_cache for memoization.md
+ create mode 100644 test/test7/markdown files/41 - else clause with loops.md
+ create mode 100644 test/test7/markdown files/410 - efficient data structure selection.md
+ create mode 100644 test/test7/markdown files/411 - subprocess module basics.md
+ create mode 100644 test/test7/markdown files/412 - subprocess.run() and subprocess.Popen().md
+ create mode 100644 test/test7/markdown files/413 - capturing command output.md
+ create mode 100644 test/test7/markdown files/414 - os.system() (legacy).md
+ create mode 100644 test/test7/markdown files/415 - shutil.which() for finding executables.md
+ create mode 100644 test/test7/markdown files/416 - specific exception types vs bare except.md
+ create mode 100644 test/test7/markdown files/417 - exception hierarchies.md
+ create mode 100644 test/test7/markdown files/418 - logging exceptions.md
+ create mode 100644 test/test7/markdown files/419 - exception chaining (raise ... from ...).md
+ create mode 100644 test/test7/markdown files/42 - pass statement.md
+ create mode 100644 test/test7/markdown files/420 - custom exception classes best practices.md
+ create mode 100644 test/test7/markdown files/421 - contextlib.suppress() for ignoring exceptions.md
+ create mode 100644 test/test7/markdown files/422 - finally for cleanup operations.md
+ create mode 100644 test/test7/markdown files/423 - LEGB rule (Local Enclosing Global Built-in).md
+ create mode 100644 test/test7/markdown files/424 - global statement.md
+ create mode 100644 test/test7/markdown files/425 - nonlocal statement.md
+ create mode 100644 test/test7/markdown files/426 - builtins module.md
+ create mode 100644 test/test7/markdown files/427 - reference counting.md
+ create mode 100644 test/test7/markdown files/428 - garbage collection (gc module).md
+ create mode 100644 test/test7/markdown files/429 - weakref module (weak references).md
+ create mode 100644 test/test7/markdown files/43 - enumerate() function in loops.md
+ create mode 100644 test/test7/markdown files/430 - memory leaks and prevention.md
+ create mode 100644 test/test7/markdown files/431 - slots for memory optimization.md
+ create mode 100644 test/test7/markdown files/432 - binary (0b prefix).md
+ create mode 100644 test/test7/markdown files/433 - octal (0o prefix).md
+ create mode 100644 test/test7/markdown files/434 - hexadecimal (0x prefix).md
+ create mode 100644 test/test7/markdown files/435 - base conversion functions.md
+ create mode 100644 test/test7/markdown files/436 - platform module.md
+ create mode 100644 test/test7/markdown files/437 - sys module (interpreter information).md
+ create mode 100644 test/test7/markdown files/438 - os.environ (environment variables).md
+ create mode 100644 test/test7/markdown files/439 - sys.argv (command-line arguments).md
+ create mode 100644 test/test7/markdown files/44 - zip() function in loops.md
+ create mode 100644 test/test7/markdown files/440 - sys.exit() for program termination.md
+ create mode 100644 test/test7/markdown files/441 - pylint (static code analysis).md
+ create mode 100644 test/test7/markdown files/442 - black (code formatter).md
+ create mode 100644 test/test7/markdown files/443 - flake8 (style guide enforcement).md
+ create mode 100644 test/test7/markdown files/444 - isort (import sorting).md
+ create mode 100644 test/test7/markdown files/445 - mypy (static type checking).md
+ create mode 100644 test/test7/markdown files/446 - import() function.md
+ create mode 100644 test/test7/markdown files/447 - importlib module.md
+ create mode 100644 test/test7/markdown files/448 - exec() and eval() (cautions and use cases).md
+ create mode 100644 test/test7/markdown files/449 - dynamically creating classes (type() function).md
+ create mode 100644 test/test7/markdown files/45 - list declaration and initialization.md
+ create mode 100644 test/test7/markdown files/450 - monkey patching.md
+ create mode 100644 test/test7/markdown files/451 - dir() vars() locals() globals().md
+ create mode 100644 test/test7/markdown files/452 - hasattr() getattr() setattr() delattr().md
+ create mode 100644 test/test7/markdown files/453 - inspect module (examining live objects).md
+ create mode 100644 test/test7/markdown files/454 - callable() function.md
+ create mode 100644 test/test7/markdown files/455 - help() function.md
+ create mode 100644 test/test7/markdown files/456 - annotations attribute.md
+ create mode 100644 test/test7/markdown files/457 - variable annotations (PEP 526).md
+ create mode 100644 test/test7/markdown files/458 - forward references in type hints.md
+ create mode 100644 test/test7/markdown files/459 - from future import annotations.md
+ create mode 100644 test/test7/markdown files/46 - accessing elements (indexing).md
+ create mode 100644 test/test7/markdown files/460 - EAFP (Easier to Ask for Forgiveness than Permission).md
+ create mode 100644 test/test7/markdown files/461 - LBYL (Look Before You Leap).md
+ create mode 100644 test/test7/markdown files/462 - using context managers for resource management.md
+ create mode 100644 test/test7/markdown files/463 - tuple unpacking.md
+ create mode 100644 test/test7/markdown files/464 - swapping variables (a b = b a).md
+ create mode 100644 test/test7/markdown files/465 - chaining comparison operators (a less than b less than c).md
+ create mode 100644 test/test7/markdown files/466 - using enumerate() instead of range(len()).md
+ create mode 100644 test/test7/markdown files/467 - using zip() for parallel iteration.md
+ create mode 100644 test/test7/markdown files/468 - using any() and all() for conditions.md
+ create mode 100644 test/test7/markdown files/469 - object creation and destruction (new init del).md
+ create mode 100644 test/test7/markdown files/47 - negative indexing.md
+ create mode 100644 test/test7/markdown files/470 - string bytes representation (str repr bytes).md
+ create mode 100644 test/test7/markdown files/471 - container methods (len getitem setitem delitem).md
+ create mode 100644 test/test7/markdown files/472 - attribute access (getattr setattr delattr getattribute).md
+ create mode 100644 test/test7/markdown files/473 - callable objects (call).md
+ create mode 100644 test/test7/markdown files/474 - context managers (enter exit).md
+ create mode 100644 test/test7/markdown files/475 - iterators (iter next).md
+ create mode 100644 test/test7/markdown files/476 - arithmetic operators (add sub mul etc).md
+ create mode 100644 test/test7/markdown files/477 - comparison operators (eq lt gt etc).md
+ create mode 100644 test/test7/markdown files/48 - list slicing [start stop step].md
+ create mode 100644 test/test7/markdown files/49 - modifying elements.md
+ create mode 100644 test/test7/markdown files/50 - adding elements (append insert extend).md
+ create mode 100644 test/test7/markdown files/51 - removing elements (remove pop del clear).md
+ create mode 100644 test/test7/markdown files/52 - list concatenation and repetition.md
+ create mode 100644 test/test7/markdown files/53 - list methods (sort reverse index count copy).md
+ create mode 100644 test/test7/markdown files/54 - list comprehension.md
+ create mode 100644 test/test7/markdown files/55 - nested lists.md
+ create mode 100644 test/test7/markdown files/56 - iterating through lists.md
+ create mode 100644 test/test7/markdown files/57 - checking membership in lists.md
+ create mode 100644 test/test7/markdown files/58 - tuple declaration and initialization.md
+ create mode 100644 test/test7/markdown files/59 - accessing tuple elements.md
+ create mode 100644 test/test7/markdown files/60 - tuple slicing.md
+ create mode 100644 test/test7/markdown files/61 - tuple immutability.md
+ create mode 100644 test/test7/markdown files/62 - tuple methods (count index).md
+ create mode 100644 test/test7/markdown files/63 - tuple packing and unpacking.md
+ create mode 100644 test/test7/markdown files/64 - named tuples (collections.namedtuple).md
+ create mode 100644 test/test7/markdown files/65 - single element tuple.md
+ create mode 100644 test/test7/markdown files/66 - tuple vs list.md
+ create mode 100644 test/test7/markdown files/67 - dictionary declaration and initialization.md
+ create mode 100644 test/test7/markdown files/68 - accessing values using keys.md
+ create mode 100644 test/test7/markdown files/69 - adding and modifying key-value pairs.md
+ create mode 100644 test/test7/markdown files/70 - removing items (pop popitem del clear).md
+ create mode 100644 test/test7/markdown files/71 - dictionary methods (keys values items get update).md
+ create mode 100644 test/test7/markdown files/72 - setdefault() method.md
+ create mode 100644 test/test7/markdown files/73 - dictionary comprehension.md
+ create mode 100644 test/test7/markdown files/74 - nested dictionaries.md
+ create mode 100644 test/test7/markdown files/75 - iterating through dictionaries.md
+ create mode 100644 test/test7/markdown files/76 - checking key existence.md
+ create mode 100644 test/test7/markdown files/77 - defaultdict from collections module.md
+ create mode 100644 test/test7/markdown files/78 - OrderedDict (Python 3.7+ dict maintains order).md
+ create mode 100644 test/test7/markdown files/79 - set declaration and initialization.md
+ create mode 100644 test/test7/markdown files/80 - adding elements (add update).md
+ create mode 100644 test/test7/markdown files/81 - removing elements (remove discard pop clear).md
+ create mode 100644 test/test7/markdown files/82 - set operations (union intersection difference symmetric difference).md
+ create mode 100644 test/test7/markdown files/83 - set methods (issubset issuperset isdisjoint).md
+ create mode 100644 test/test7/markdown files/84 - frozen sets (frozenset).md
+ create mode 100644 test/test7/markdown files/85 - set comprehension.md
+ create mode 100644 test/test7/markdown files/86 - set membership testing.md
+ create mode 100644 test/test7/markdown files/87 - string declaration (single double triple quotes).md
+ create mode 100644 test/test7/markdown files/88 - string indexing and slicing.md
+ create mode 100644 test/test7/markdown files/89 - string immutability.md
+ create mode 100644 test/test7/markdown files/90 - string concatenation and repetition.md
+ create mode 100644 test/test7/markdown files/91 - string methods (upper lower strip split join replace).md
+ create mode 100644 test/test7/markdown files/92 - string formatting (percent formatting).md
+ create mode 100644 test/test7/markdown files/93 - str.format() method.md
+ create mode 100644 test/test7/markdown files/94 - f-strings (formatted string literals).md
+ create mode 100644 test/test7/markdown files/95 - string methods (find index count startswith endswith).md
+ create mode 100644 test/test7/markdown files/96 - string validation methods (isalpha isdigit isalnum isspace).md
+ create mode 100644 test/test7/markdown files/97 - escape sequences in strings.md
+ create mode 100644 test/test7/markdown files/98 - raw strings (r...).md
+ create mode 100644 test/test7/markdown files/99 - multiline strings.md
+Administrator in File-Generator.py on  main [⬆️ ] via 🐍 v3.12.8 
+00:21:41 ❯ git push origin main
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (5/5), 7.08 KiB | 7.08 MiB/s, done.
+Total 5 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/InterCentury/File-Generator.py.git
+   71448f8..b94f49d  main -> main
+Administrator in File-Generator.py on  main via 🐍 v3.12.8 took 2s 
+00:21:44 ❯ git add .
+Administrator in File-Generator.py on  main [✔️ ] via 🐍 v3.12.8 
+00:22:48 ❯ git commit --date '2026-01-17' -m "initialize: log"
+[main a05caad] initialize: log
+ Date: Sat Jan 17 00:22:49 2026 +0600
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 logs
+Administrator in File-Generator.py on  main [⬆️ ] via 🐍 v3.12.8 
+00:22:49 ❯ git push origin main
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (2/2), 260 bytes | 260.00 KiB/s, done.
+Total 2 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/InterCentury/File-Generator.py.git
+   b94f49d..a05caad  main -> main
+Administrator in File-Generator.py on  main via 🐍 v3.12.8 took 2s 
+00:22:52 ❯
