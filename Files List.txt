@@ -14,18 +14,18 @@
 14 - complex numbers (complex).md
 15 - boolean type (bool).md
 16 - None type.md
-17 - type conversion (int(), float(), str(), bool()).md
+17 - type conversion (int() float() str() bool()).md
 18 - constants and naming conventions.md
 19 - type hints annotations (Python 3.5+).md
-20 - arithmetic operators (+ - * / // % **).md
-21 - assignment operators (= += -= *= /= //= %= **=).md
+20 - arithmetic operators (+ - * - // % **).md
+21 - assignment operators (= += -= *= -= //= %= **=).md
 22 - comparison operators (== != < > <= >=).md
 23 - logical operators (and or not).md
 24 - identity operators (is is not).md
 25 - membership operators (in not in).md
-26 - bitwise operators (& | ^ ~ << >>).md
+26 - bitwise operators (and or xor not left shift right shift).md
 27 - operator precedence.md
-28 - walrus operator (:=) (Python 3.8+).md
+28 - walrus operator (colon equals) (Python 3.8+).md
 29 - if statement.md
 30 - if-else statement.md
 31 - elif ladder.md
@@ -79,7 +79,7 @@
 79 - set declaration and initialization.md
 80 - adding elements (add update).md
 81 - removing elements (remove discard pop clear).md
-82 - set operations (union intersection difference symmetric_difference).md
+82 - set operations (union intersection difference symmetric difference).md
 83 - set methods (issubset issuperset isdisjoint).md
 84 - frozen sets (frozenset).md
 85 - set comprehension.md
@@ -89,13 +89,13 @@
 89 - string immutability.md
 90 - string concatenation and repetition.md
 91 - string methods (upper lower strip split join replace).md
-92 - string formatting (percent-formatting).md
+92 - string formatting (percent formatting).md
 93 - str.format() method.md
 94 - f-strings (formatted string literals).md
 95 - string methods (find index count startswith endswith).md
 96 - string validation methods (isalpha isdigit isalnum isspace).md
 97 - escape sequences in strings.md
-98 - raw strings (r'...').md
+98 - raw strings (r...).md
 99 - multiline strings.md
 100 - string multiplication.md
 101 - function definition (def keyword).md
@@ -106,8 +106,8 @@
 106 - positional arguments.md
 107 - keyword arguments.md
 108 - default parameters.md
-109 - variable-length arguments (*args).md
-110 - variable-length keyword arguments (**kwargs).md
+109 - variable-length arguments (starargs).md
+110 - variable-length keyword arguments (starstarkwargs).md
 111 - parameter ordering rules.md
 112 - docstrings (function documentation).md
 113 - pass statement in functions.md
@@ -135,13 +135,13 @@
 135 - import statement.md
 136 - from-import statement.md
 137 - import aliasing (as keyword).md
-138 - __name__ variable and __main__.md
+138 - name variable and main.md
 139 - dir() function.md
 140 - reload() function.md
 141 - module search path (sys.path).md
-142 - byte-compiled files (.pyc).md
+142 - byte-compiled files (dot pyc).md
 143 - creating packages.md
-144 - __init__.py file.md
+144 - init.py file.md
 145 - importing from packages.md
 146 - relative imports.md
 147 - package structure best practices.md
@@ -186,12 +186,12 @@
 186 - instance variables.md
 187 - class variables.md
 188 - instance methods.md
-189 - __init__() constructor.md
-190 - __str__() and __repr__() methods.md
+189 - init() constructor.md
+190 - str() and repr() methods.md
 191 - self parameter.md
-192 - public private (_single underscore).md
-193 - name mangling (__double underscore).md
-194 - property decorator (@property).md
+192 - public private (underscore single underscore).md
+193 - name mangling (double underscore).md
+194 - property decorator (at property).md
 195 - setter and deleter decorators.md
 196 - getter methods.md
 197 - setter methods.md
@@ -208,7 +208,7 @@
 208 - Method Resolution Order (MRO).md
 209 - issubclass() and isinstance().md
 210 - abstract base classes (abc module).md
-211 - @abstractmethod decorator.md
+211 - at abstractmethod decorator.md
 212 - mixin classes.md
 213 - method overloading (using default parameters).md
 214 - method overriding.md
@@ -216,23 +216,23 @@
 216 - duck typing.md
 217 - polymorphism with functions.md
 218 - polymorphism with abstract classes.md
-219 - __init__ (constructor).md
-220 - __del__ (destructor).md
-221 - __str__ (string representation).md
-222 - __repr__ (developer representation).md
-223 - __len__ (length).md
-224 - __getitem__ (indexing).md
-225 - __setitem__ (item assignment).md
-226 - __delitem__ (item deletion).md
-227 - __iter__ and __next__ (iteration).md
-228 - __call__ (callable objects).md
-229 - __enter__ and __exit__ (context managers).md
-230 - __eq__ __lt__ __gt__ (comparison operators).md
-231 - __add__ __sub__ __mul__ (arithmetic operators).md
-232 - static methods (@staticmethod).md
-233 - class methods (@classmethod).md
+219 - init (constructor).md
+220 - del (destructor).md
+221 - str (string representation).md
+222 - repr (developer representation).md
+223 - len (length).md
+224 - getitem (indexing).md
+225 - setitem (item assignment).md
+226 - delitem (item deletion).md
+227 - iter and next (iteration).md
+228 - call (callable objects).md
+229 - enter and exit (context managers).md
+230 - eq lt gt (comparison operators).md
+231 - add sub mul (arithmetic operators).md
+232 - static methods (at staticmethod).md
+233 - class methods (at classmethod).md
 234 - property decorators.md
-235 - slots (__slots__) for memory optimization.md
+235 - slots (slots) for memory optimization.md
 236 - dataclasses (dataclasses module) (Python 3.7+).md
 237 - composition (has-a relationship).md
 238 - aggregation.md
@@ -251,15 +251,15 @@
 251 - class decorators.md
 252 - decorators with arguments.md
 253 - chaining decorators.md
-254 - @functools.wraps.md
+254 - at functools.wraps.md
 255 - property decorator.md
-256 - @staticmethod and @classmethod.md
-257 - @lru_cache (caching decorator).md
+256 - at staticmethod and at classmethod.md
+257 - at lru_cache (caching decorator).md
 258 - creating custom decorators.md
 259 - with statement.md
 260 - implementing context managers using classes.md
 261 - contextlib module.md
-262 - @contextmanager decorator.md
+262 - at contextmanager decorator.md
 263 - nested context managers.md
 264 - asynchronous context managers (Python 3.7+).md
 265 - lambda expressions.md
@@ -270,9 +270,9 @@
 270 - functional programming concepts in Python.md
 271 - re module basics.md
 272 - pattern matching (match search findall finditer).md
-273 - regex patterns (. ^ $ * + ? {}).md
-274 - character classes ([a-z] \d \w \s).md
-275 - groups and capturing (() (?:)).md
+273 - regex patterns (dot caret dollar star plus question mark braces).md
+274 - character classes (bracket a-z backslash d backslash w backslash s).md
+275 - groups and capturing (parentheses (colon parentheses)).md
 276 - substitution (sub subn).md
 277 - compiling regex patterns (re.compile).md
 278 - flags (re.IGNORECASE re.MULTILINE re.DOTALL).md
@@ -298,7 +298,7 @@
 298 - enumerate() function.md
 299 - map() with multiple iterables.md
 300 - itertools.zip_longest().md
-301 - unpacking with *.md
+301 - unpacking with star.md
 302 - assignment vs shallow copy vs deep copy.md
 303 - copy.copy() (shallow copy).md
 304 - copy.deepcopy() (deep copy).md
@@ -428,7 +428,7 @@
 428 - garbage collection (gc module).md
 429 - weakref module (weak references).md
 430 - memory leaks and prevention.md
-431 - __slots__ for memory optimization.md
+431 - slots for memory optimization.md
 432 - binary (0b prefix).md
 433 - octal (0o prefix).md
 434 - hexadecimal (0x prefix).md
@@ -443,7 +443,7 @@
 443 - flake8 (style guide enforcement).md
 444 - isort (import sorting).md
 445 - mypy (static type checking).md
-446 - __import__() function.md
+446 - import() function.md
 447 - importlib module.md
 448 - exec() and eval() (cautions and use cases).md
 449 - dynamically creating classes (type() function).md
@@ -453,25 +453,25 @@
 453 - inspect module (examining live objects).md
 454 - callable() function.md
 455 - help() function.md
-456 - __annotations__ attribute.md
+456 - annotations attribute.md
 457 - variable annotations (PEP 526).md
 458 - forward references in type hints.md
-459 - from __future__ import annotations.md
+459 - from future import annotations.md
 460 - EAFP (Easier to Ask for Forgiveness than Permission).md
 461 - LBYL (Look Before You Leap).md
 462 - using context managers for resource management.md
 463 - tuple unpacking.md
 464 - swapping variables (a b = b a).md
-465 - chaining comparison operators (a < b < c).md
+465 - chaining comparison operators (a less than b less than c).md
 466 - using enumerate() instead of range(len()).md
 467 - using zip() for parallel iteration.md
 468 - using any() and all() for conditions.md
-469 - object creation and destruction (__new__ __init__ __del__).md
-470 - string bytes representation (__str__ __repr__ __bytes__).md
-471 - container methods (__len__ __getitem__ __setitem__ __delitem__).md
-472 - attribute access (__getattr__ __setattr__ __delattr__ __getattribute__).md
-473 - callable objects (__call__).md
-474 - context managers (__enter__ __exit__).md
-475 - iterators (__iter__ __next__).md
-476 - arithmetic operators (__add__ __sub__ __mul__ etc).md
-477 - comparison operators (__eq__ __lt__ __gt__ etc).md
+469 - object creation and destruction (new init del).md
+470 - string bytes representation (str repr bytes).md
+471 - container methods (len getitem setitem delitem).md
+472 - attribute access (getattr setattr delattr getattribute).md
+473 - callable objects (call).md
+474 - context managers (enter exit).md
+475 - iterators (iter next).md
+476 - arithmetic operators (add sub mul etc).md
+477 - comparison operators (eq lt gt etc).md
