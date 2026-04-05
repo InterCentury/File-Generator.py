@@ -4,7 +4,28 @@ def read_file_list(file_path):
   
   
 def create_files(base_path, file_list, handle_no_ext):
-  
+    for name in file_list:
+        if '.' not in name:
+            if handle_no_ext == 'skip':
+                print(f"⚠️ Skipped (no extension): {name}")
+                continue
+            elif handle_no_ext == 'folder':
+                folder_path = os.path.join(base_path, name)
+                os.makedirs(folder_path, exist_ok=True)
+                print(f"📁 Folder created: {folder_path}")
+                continue
+
+        file_path = os.path.join(base_path, name)
+
+        # Ensure directory exists
+        os.makedirs(os.path.dirname(file_path), exist_ok=True)
+
+        try:
+            with open(file_path, 'w') as f:
+                pass  # just create empty file
+            print(f"✅ Created: {file_path}")
+        except Exception as e:
+            print(f"❌ Error creating {name}: {e}")  
 
 
 def main():
@@ -23,7 +44,6 @@ if not os.path.exists(output_path):
 
 # ask for separate folder
 separate_folder = input("Do you want to create separate folder (y/n): ").lower().strip()
-
 if separate_folder == "y":
   folder_name = input("Enter folder name: ").strip()
   output_path = os.path.join(output_path, folder_name)
