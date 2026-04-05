@@ -1,7 +1,13 @@
 import os
 
 def read_file_list(file_path):
-  
+    try:
+        with open(file_path, 'r') as f:
+            lines = [line.strip() for line in f.readlines()]
+            return [line for line in lines if line]  # remove empty lines
+    except FileNotFoundError:
+        print("❌ 'Files List.txt' not found!")
+        return []  
   
 def create_files(base_path, file_list, handle_no_ext):
     for name in file_list:
