@@ -43,7 +43,7 @@ def main():
       return
     
     # ask for out put path
-    output_path = input("Enter the output path: ")
+    output_path = input("🏠 Enter the output path: ")
     if not os.path.exists(output_path):
       print("Output path does not exist.")
       return
@@ -51,13 +51,13 @@ def main():
     # ask for separate folder
     separate_folder = input("Do you want to create separate folder (y/n): ").lower().strip()
     if separate_folder == "y":
-      folder_name = input("Enter folder name: ").strip()
+      folder_name = input("📂 Enter folder name: ").strip()
       output_path = os.path.join(output_path, folder_name)
       os.makedirs(output_path, exist_ok=True)
     
     
     # handle file without extensions (e.g. no .txt , .cpp , .py etc)
-    handle_no_ext = input("Files without extension (skip/folder): ").lower().strip()
+    handle_no_ext = input("⚡ Files without extension (skip/folder): ").lower().strip()
     if handle_no_ext not in ['skip', 'folder']:
                   handle_no_ext = 'skip'
     
