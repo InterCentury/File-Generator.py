@@ -17,9 +17,9 @@
 17 - type conversion (int() float() str() bool()).md
 18 - constants and naming conventions.md
 19 - type hints annotations (Python 3.5+).md
-20 - arithmetic operators (+ - * - // % **).md
-21 - assignment operators (= += -= *= -= //= %= **=).md
-22 - comparison operators (== != < > <= >=).md
+20 - arithmetic operators.md
+21 - assignment operators.md
+22 - comparison operators.md
 23 - logical operators (and or not).md
 24 - identity operators (is is not).md
 25 - membership operators (in not in).md
