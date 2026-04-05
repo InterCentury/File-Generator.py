@@ -74,7 +74,7 @@ def main():
         print("❌ Output path does not exist.")
         return
     
-    separate_folder = input("Do you want to create separate folder (y/n): ").lower().strip()
+    separate_folder = input("🦺 Do you want to create separate folder (y/n): ").lower().strip()
     if separate_folder == "y":
         folder_name = input("📂 Enter folder name: ").strip()
         output_path = os.path.join(output_path, folder_name)
