@@ -35,7 +35,7 @@ def create_files(base_path, file_list, handle_no_ext):
 
 
 def main():
-print("--------File Generator.py--------")
+ print("--------File Generator.py--------")
 
 # read "File List.txt"
 file_list = read_file_list("Files List.txt")
