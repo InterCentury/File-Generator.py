@@ -21,7 +21,13 @@ if not os.path.exists(output_path):
   print("Output path does not exist.")
   return
 
+# ask for separate folder
+separate_folder = input("Do you want to create separate folder (y/n): ").lower().strip()
 
+if separate_folder == "y":
+  folder_name = input("Enter folder name: ").strip()
+  output_path = os.path.join(output_path, folder_name)
+  os.makedirs(output_path, exist_ok=True)
 
 if __name__ == "__main__":
   main()
