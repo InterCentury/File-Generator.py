@@ -29,5 +29,11 @@ if separate_folder == "y":
   output_path = os.path.join(output_path, folder_name)
   os.makedirs(output_path, exist_ok=True)
 
+
+# handle file without extensions (e.g. no .txt , .cpp , .py etc)
+handle_no_ext = input("Files without extension (skip/folder): ").lower().strip()
+    if handle_no_ext not in ['skip', 'folder']:
+        handle_no_ext = 'skip'
+        
 if __name__ == "__main__":
   main()
