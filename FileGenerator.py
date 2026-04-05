@@ -84,7 +84,7 @@ def main():
     if handle_no_ext not in ['skip', 'folder']:
         handle_no_ext = 'skip'
 
-    # 🔥 New options
+    
     skip_invalid = input("🚩 Skip files with invalid name (y/n): ").lower().strip()
     clean_invalid = input("⚠️ Remove invalid character from file name (y/n): ").lower().strip()
 
