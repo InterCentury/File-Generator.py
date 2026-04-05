@@ -57,7 +57,7 @@ File-Generator.py/
 
    ```
    🏠 Enter output path: C:\files\
-   Do you want to create separate folder (y/n): y
+   🦺  Do you want to create separate folder (y/n): y
    📂 Enter folder name: generated_files
    ⚡ Files without extension (skip/folder): folder
    🚩 Skip files with invalid name (y/n): n
