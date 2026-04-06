@@ -4,8 +4,8 @@ import os
 
 def read_file_list(file_path):
     try:
-        with open(file_path, 'r') as f:
-            lines = [line.strip() for line in f.readlines()]
+        with open(file_path, 'r', encoding='utf-8') as f:
+            lines = [line.strip().replace('\ufeff', '') for line in f.readlines()]
             return [line for line in lines if line]
     except FileNotFoundError:
         print("❌ 'Files List.txt' not found!")
@@ -32,11 +32,16 @@ def create_files(base_path, file_list, handle_no_ext, skip_invalid, clean_invali
             if skip_invalid == 'y':
                 print(f"🚩 Skipped (invalid name): {name}")
                 continue
-            else:
-                # if skip = n → always clean (safe mode)
+            elif clean_invalid == 'y':
                 cleaned = clean_name(name)
+                if not cleaned:
+                    print(f"🚩 Skipped (empty after cleaning): {name}")
+                    continue
                 print(f"⚠️ Cleaned: {name} -> {cleaned}")
                 name = cleaned
+            else:
+                print(f"🚩 Skipped (invalid name, no clean): {name}")
+                continue
 
         # Handle files without extension
         if '.' not in name:
@@ -56,8 +61,13 @@ def create_files(base_path, file_list, handle_no_ext, skip_invalid, clean_invali
         if dir_name:
             os.makedirs(dir_name, exist_ok=True)
 
+        # Avoid overwriting existing files
+        if os.path.exists(file_path):
+            print(f"⚠️ Already exists: {file_path}")
+            continue
+
         try:
-            with open(file_path, 'w') as f:
+            with open(file_path, 'w', encoding='utf-8') as f:
                 pass
             print(f"✅ Created: {file_path}")
         except Exception as e:
@@ -71,7 +81,7 @@ def main():
     if not file_list:
         return
       
-    # intialize output path
+    # initialize output path
     output_path = input("🏠 Enter the output path: ").strip()
     if not os.path.exists(output_path):
         print("❌ Output path does not exist.")
@@ -89,12 +99,11 @@ def main():
     if handle_no_ext not in ['skip', 'folder']:
         handle_no_ext = 'skip'
 
-    
+    # invalid handling options
     skip_invalid = input("🚩 Skip files with invalid name (y/n): ").lower().strip()
     clean_invalid = input("⚠️ Remove invalid character from file name (y/n): ").lower().strip()
     
-    
-    # Execution successful msg
+    # Execution start
     print("\n🚀 Generating files...\n")
     create_files(output_path, file_list, handle_no_ext, skip_invalid, clean_invalid)
 
