@@ -1,6 +1,8 @@
+
 # Greetings from github.com/InterCentury 😄
 
 import os
+import sys
 
 def read_file_list(file_path):
     try:
@@ -77,7 +79,11 @@ def create_files(base_path, file_list, handle_no_ext, skip_invalid, clean_invali
 def main():
     print("--------File Generator.py--------")
     
-    file_list = read_file_list("Files List.txt")
+    # Get the directory where this script is located
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    files_list_path = os.path.join(script_dir, "Files List.txt")
+    
+    file_list = read_file_list(files_list_path)
     if not file_list:
         return
       
