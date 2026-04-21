@@ -5,7 +5,6 @@ eee-slops/
 │   ├── 00.3 how-to-use.md
 │   ├── 00.4 tools-needed.md
 │   └── 00.5 safety-basics.md
-
 ├── 01-basics/
 │   ├── 01.01 what-is-electricity.md
 │   ├── 01.02 atoms-electrons.md
@@ -17,7 +16,6 @@ eee-slops/
 │   ├── 01.08 ac-vs-dc.md
 │   ├── 01.09 frequency.md
 │   └── 01.10 real-life-examples.md
-
 ├── 02-electricity-types/
 │   ├── 02.01 dc-explained.md
 │   ├── 02.02 ac-explained.md
@@ -25,7 +23,6 @@ eee-slops/
 │   ├── 02.04 transformers.md
 │   ├── 02.05 adapters.md
 │   └── 02.06 why-ac-used.md
-
 ├── 03-components/
 │   ├── 03.01 wires.md
 │   ├── 03.02 resistors.md
@@ -36,7 +33,6 @@ eee-slops/
 │   ├── 03.07 relays.md
 │   ├── 03.08 switches.md
 │   └── 03.09 breadboard.md
-
 ├── 04-power-systems/
 │   ├── batteries/
 │   │   ├── 04.01 what-is-battery.md
@@ -44,7 +40,6 @@ eee-slops/
 │   │   ├── 04.03 voltage-capacity.md
 │   │   ├── 04.04 charging-basics.md
 │   │   ├── 04.05 series-vs-parallel.md
-│   │
 │   │   ├── types/
 │   │   │   ├── 04.06 lead-acid.md
 │   │   │   ├── 04.07 lithium-ion.md
@@ -52,43 +47,35 @@ eee-slops/
 │   │   │   ├── 04.09 nickel-cadmium.md
 │   │   │   ├── 04.10 nickel-metal-hydride.md
 │   │   │   └── 04.11 alkaline.md
-│   │
 │   │   ├── safety/
 │   │   │   ├── 04.12 overcharging.md
 │   │   │   ├── 04.13 overheating.md
 │   │   │   ├── 04.14 battery-explosion.md
 │   │   │   └── 04.15 safe-handling.md
-│   │
 │   │   └── 04.16 battery-selection.md
-│
 │   ├── 04.17 adapters.md
 │   ├── 04.18 power-supply.md
 │   ├── 04.19 voltage-regulators.md
 │   └── 04.20 dc-to-ac-inverter.md
-
 ├── 05-circuits/
 │   ├── 05.01 what-is-circuit.md
 │   ├── 05.02 series-circuit.md
 │   ├── 05.03 parallel-circuit.md
 │   ├── 05.04 short-circuit.md
 │   ├── 05.05 open-circuit.md
-│
 │   ├── grounding/
 │   │   ├── 05.06 what-is-grounding.md
 │   │   ├── 05.07 types-of-grounding.md
 │   │   ├── 05.08 earthing-vs-grounding.md
 │   │   ├── 05.09 why-grounding-important.md
 │   │   └── 05.10 real-world-grounding.md
-│
 │   └── 05.11 circuit-analysis-basics.md
-
 ├── 06-measuring-tools/
 │   ├── 06.01 multimeter.md
 │   ├── 06.02 measuring-voltage.md
 │   ├── 06.03 measuring-current.md
 │   ├── 06.04 continuity-test.md
 │   └── 06.05 safety-measuring.md
-
 ├── 07-motors/
 │   ├── 07.01 what-is-motor.md
 │   ├── 07.02 dc-motor.md
@@ -97,14 +84,12 @@ eee-slops/
 │   ├── 07.05 775-motor.md
 │   ├── 07.06 motor-specs.md
 │   └── 07.07 motor-control.md
-
 ├── 08-electronics-basics/
 │   ├── 08.01 analog-vs-digital.md
 │   ├── 08.02 logic-gates.md
 │   ├── 08.03 pwm.md
 │   ├── 08.04 signal-basics.md
 │   └── 08.05 sensors-intro.md
-
 ├── 09-microcontrollers/
 │   ├── 09.01 what-is-mcu.md
 │   ├── 09.02 arduino-basics.md
@@ -112,7 +97,6 @@ eee-slops/
 │   ├── 09.04 pwm-control.md
 │   ├── 09.05 sensor-reading.md
 │   └── 09.06 simple-projects.md
-
 ├── 10-robotics-bridge/
 │   ├── 10.01 motors-with-code.md
 │   ├── 10.02 motor-driver.md
@@ -121,27 +105,23 @@ eee-slops/
 │   ├── 10.05 sensors-usage.md
 │   ├── 10.06 line-follower.md
 │   └── 10.07 obstacle-robot.md
-
 ├── 11-practical/
 │   ├── 11.01 build-led-circuit.md
 │   ├── 11.02 build-fan.md
 │   ├── 11.03 battery-project.md
 │   ├── 11.04 motor-project.md
 │   └── 11.05 debugging.md
-
 ├── 12-common-mistakes/
 │   ├── 12.01 wrong-voltage.md
 │   ├── 12.02 short-circuit.md
 │   ├── 12.03 overheating.md
 │   ├── 12.04 bad-wiring.md
 │   └── 12.05 cheap-components.md
-
 ├── 13-cheatsheets/
 │   ├── 13.01 formulas.md
 │   ├── 13.02 symbols.md
 │   ├── 13.03 units.md
 │   └── 13.04 quick-guide.md
-
 └── 14-future/
     ├── 14.01 power-electronics.md
     ├── 14.02 embedded-systems.md
