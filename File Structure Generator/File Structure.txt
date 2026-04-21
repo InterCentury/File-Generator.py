@@ -1,3 +1,5 @@
+this is input file for generate structure 
+
 eee-slops/
 ├── 00-start-here/
 │   ├── 00.1 README.md
