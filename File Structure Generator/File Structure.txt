@@ -35,28 +35,28 @@ eee-slops/
 │   └── 03.09 breadboard.md
 ├── 04-power-systems/
 │   ├── batteries/
-│   │   ├── 04.01 what-is-battery.md
-│   │   ├── 04.02 how-battery-works.md
-│   │   ├── 04.03 voltage-capacity.md
-│   │   ├── 04.04 charging-basics.md
-│   │   ├── 04.05 series-vs-parallel.md
+│   │   ├── batteries - 1 what-is-battery.md
+│   │   ├── batteries - 2 how-battery-works.md
+│   │   ├── batteries - 3 voltage-capacity.md
+│   │   ├── batteries - 4 charging-basics.md
+│   │   ├── batteries - 5 series-vs-parallel.md
 │   │   ├── types/
-│   │   │   ├── 04.06 lead-acid.md
-│   │   │   ├── 04.07 lithium-ion.md
-│   │   │   ├── 04.08 lithium-polymer.md
-│   │   │   ├── 04.09 nickel-cadmium.md
-│   │   │   ├── 04.10 nickel-metal-hydride.md
-│   │   │   └── 04.11 alkaline.md
+│   │   │   ├── types - 01 lead-acid.md
+│   │   │   ├── types - 02 lithium-ion.md
+│   │   │   ├── types - 03 lithium-polymer.md
+│   │   │   ├── types - 04 nickel-cadmium.md
+│   │   │   ├── types - 05 nickel-metal-hydride.md
+│   │   │   └── types - 06 alkaline.md
 │   │   ├── safety/
-│   │   │   ├── 04.12 overcharging.md
-│   │   │   ├── 04.13 overheating.md
-│   │   │   ├── 04.14 battery-explosion.md
-│   │   │   └── 04.15 safe-handling.md
+│   │   │   ├── safety - 1 overcharging.md
+│   │   │   ├── safety - 2 overheating.md
+│   │   │   ├── safety - 3 battery-explosion.md
+│   │   │   └── safety - 4 safe-handling.md
 │   │   └── 04.16 battery-selection.md
-│   ├── 04.17 adapters.md
-│   ├── 04.18 power-supply.md
-│   ├── 04.19 voltage-regulators.md
-│   └── 04.20 dc-to-ac-inverter.md
+│   ├── 04.ps - adapters.md
+│   ├── 04.ps - power-supply.md
+│   ├── 04.ps - voltage-regulators.md
+│   └── 04.ps - dc-to-ac-inverter.md
 ├── 05-circuits/
 │   ├── 05.01 what-is-circuit.md
 │   ├── 05.02 series-circuit.md
