@@ -1,0 +1,67 @@
+Solune/
+│
+├── index.html                     # Home
+├── community-standards.html       # Rules & Guidelines
+├── events.html                    # Events
+│
+├── assets/
+│   │
+│   ├── css/
+│   │   ├── global.css             # Variables, typography, reset
+│   │   ├── layout.css             # Navbar, footer, grids
+│   │   ├── components.css         # Buttons, cards, modals
+│   │   ├── animations.css         # Keyframes & transitions
+│   │   ├── cursor.css             # Custom cursor
+│   │   ├── pages/
+│   │   │   ├── home.css
+│   │   │   ├── standards.css
+│   │   │   └── events.css
+│   │   └── responsive.css         # Mobile & tablet
+│   │
+│   ├── js/
+│   │   ├── main.js                # Shared scripts
+│   │   ├── cursor.js              # Custom cursor
+│   │   ├── animations.js          # Scroll & entrance animations
+│   │   ├── navbar.js              # Mobile navbar
+│   │   ├── audio.js               # Background music controls
+│   │   └── pages/
+│   │       ├── home.js
+│   │       ├── standards.js
+│   │       └── events.js
+│   │
+│   ├── images/
+│   │   ├── logo/
+│   │   │   ├── logo.svg
+│   │   │   └── favicon.png
+│   │   │
+│   │   ├── backgrounds/
+│   │   │   ├── hero.webp
+│   │   │   ├── particles.webp
+│   │   │   └── grid.webp
+│   │   │
+│   │   ├── events/
+│   │   ├── community/
+│   │   ├── icons/
+│   │   └── misc/
+│   │
+│   ├── audio/
+│   │   ├── ambient.mp3
+│   │   └── hover.wav
+│   │
+│   ├── fonts/
+│   │   ├── Inter/
+│   │   └── SpaceGrotesk/
+│   │
+│   └── cursor/
+│       ├── cursor.svg
+│       └── pointer.svg
+│
+├── seo/
+│   ├── robots.txt
+│   ├── sitemap.xml
+│   ├── manifest.json
+│   └── browserconfig.xml
+│
+├── .gitignore
+├── LICENSE
+└── README.md
