@@ -1,29 +1,29 @@
 Solune/
 │
-├── index.html                     # Home
-├── community-standards.html       # Rules & Guidelines
-├── events.html                    # Events
+├── index.html                     
+├── community-standards.html       
+├── events.html                    
 │
 ├── assets/
 │   │
 │   ├── css/
-│   │   ├── global.css             # Variables, typography, reset
-│   │   ├── layout.css             # Navbar, footer, grids
-│   │   ├── components.css         # Buttons, cards, modals
-│   │   ├── animations.css         # Keyframes & transitions
-│   │   ├── cursor.css             # Custom cursor
+│   │   ├── global.css             
+│   │   ├── layout.css             
+│   │   ├── components.css         
+│   │   ├── animations.css         
+│   │   ├── cursor.css             
 │   │   ├── pages/
 │   │   │   ├── home.css
 │   │   │   ├── standards.css
 │   │   │   └── events.css
-│   │   └── responsive.css         # Mobile & tablet
+│   │   └── responsive.css         
 │   │
 │   ├── js/
-│   │   ├── main.js                # Shared scripts
-│   │   ├── cursor.js              # Custom cursor
-│   │   ├── animations.js          # Scroll & entrance animations
-│   │   ├── navbar.js              # Mobile navbar
-│   │   ├── audio.js               # Background music controls
+│   │   ├── main.js                
+│   │   ├── cursor.js              
+│   │   ├── animations.js          
+│   │   ├── navbar.js              
+│   │   ├── audio.js               
 │   │   └── pages/
 │   │       ├── home.js
 │   │       ├── standards.js
